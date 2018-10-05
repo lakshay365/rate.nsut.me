@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 import { Button, Container, Grid, Icon } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
 
-import CourseSelector from './CourseSelector'
-import ProfessorSelector from './ProfessorSelector'
+import CourseSelector from './form/CourseSelector'
+import ProfessorSelector from './form/ProfessorSelector'
 import Footer from './Footer'
 
 import './ReviewForm.css'
